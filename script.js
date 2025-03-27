@@ -1,5 +1,3 @@
-// script.js
-
 let web3;
 let bankContract;
 let userAccount;
