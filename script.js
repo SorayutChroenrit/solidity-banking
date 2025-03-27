@@ -112,7 +112,7 @@ async function init() {
     console.log("MetaMask is not installed");
     showAlert(
       depositAlert,
-      "MetaMask is not installed. Please install MetaMask to use this DApp.",
+      "MetaMask is not installed. Please install MetaMask to use this App.",
       "error"
     );
   }
